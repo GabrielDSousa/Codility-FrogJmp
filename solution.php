@@ -4,6 +4,7 @@
  * @param int $X
  * @param int $Y
  * @param int $D
+ * @return int
  */
 
 function solution($X, $Y, $D):int
